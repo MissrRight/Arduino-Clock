@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/start/start",
+    "pages/wifi_station/tianqi/tianqi",
+    "pages/navigate/navigate"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "pink",
+    "navigationBarTitleText": "少女粉粉时钟",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true
+  },
+  "debug": true
+}

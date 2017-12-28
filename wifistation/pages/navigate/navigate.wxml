@@ -1,0 +1,10 @@
+<!--pages/navigate/navigate.wxml-->
+<text>现在的体温</text>
+<!--用for循环list数组 因为前面的limit=1 所以只显示最新的一个数据-->
+<!--key用独一无二的时间保障了数据安全性 key不写也是可以哒-->
+<view class='tem' wx:for="{{temperature}}" key="{{at}}">
+  <view >{{item.value}}</view>
+</view>
+<!--按钮组件 点击触发bindtap事件 执行getDataFromOneNet函数-->
+<button class="btn2" loading="{{loading}}"bindtap="getDataFromOneNet">
+宝宝要看看历史数据</button>

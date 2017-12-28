@@ -1,0 +1,4 @@
+<canvas class = "canvas" id="chart3"
+canvas-id="tempe1"></canvas>
+<canvas class = "canvas" id="chart2"
+canvas-id="tempe2"></canvas>

@@ -1,0 +1,8 @@
+/* pages/navigate/navigate.wxss */
+/*给体温数据排了一个五毛钱特效的版 没错我就只是把他往下移动了点*/
+.tem{
+  width: 60%;
+  top: 40%;
+  margin-top:50px
+}
+

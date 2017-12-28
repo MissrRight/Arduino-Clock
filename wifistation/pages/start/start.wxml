@@ -1,0 +1,4 @@
+<!--start.wxml-->
+<!--使用button组件 点击按钮触发了绑定组件的bindtap事件 执行datapos函数-->
+<button class="btn1" loading="{{loading}}"bindtap="datapos">
+你的体温</button>

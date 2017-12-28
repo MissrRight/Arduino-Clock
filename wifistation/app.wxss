@@ -1,0 +1,7 @@
+/**app.wxss**/
+page{
+  height: 100%;
+  /**设置背景图链接为网络图片的url**/
+  background-image: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1513614706821&di=7aa47c08577a223411c21d70c5c18af8&imgtype=0&src=http%3A%2F%2Fwww.ifenglife.com%2Feditor%2Fattached%2Fimage%2F20161207%2F20161207154507_4950.jpg');
+}
+
